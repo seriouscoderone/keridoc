@@ -1,0 +1,59 @@
+name: Generate LLM Documentation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'docusaurus.config.js'
+      - 'sidebars.js'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-llm-docs:
+    name: Build site and generate LLM-optimized docs
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build website
+        run: npm run build
+
+      - name: Generate LLM documentation
+        uses: osodevops/docusaurus-llm-docs@v1
+        id: llm-docs
+        with:
+          build-dir: './build'
+          output-dir: './build/llm-docs'
+          base-url: 'https://weboftrust.github.io/keridoc'
+          product-name: 'KERIDoc'
+          tagline: 'KERI Suite Documentation'
+          inject-sidebar: 'false'
+
+      - name: Copy LLM docs to build output
+        run: |
+          cp ${{ steps.llm-docs.outputs.llms-txt-path }} ./build/llms.txt
+          cp ${{ steps.llm-docs.outputs.llms-full-txt-path }} ./build/llms-full.txt
+          cp ${{ steps.llm-docs.outputs.markdown-zip-path }} ./build/markdown.zip
+
+      - name: Upload LLM docs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: llm-docs
+          path: |
+            ./build/llms.txt
+            ./build/llms-full.txt
+            ./build/markdown.zip
+          retention-days: 30
