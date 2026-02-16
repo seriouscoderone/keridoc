@@ -1,0 +1,179 @@
+# KERIDoc Documentation
+
+KERI Suite Documentation
+
+> [!TIP]
+> A complete archive of all documentation in Markdown format is available at https://weboftrust.github.io/keridoc/markdown.zip
+
+## Documentation
+
+- [KERIDoc](https://weboftrust.github.io/keridoc/index.md): KERI Suite Documentation
+- [Visualisations](https://weboftrust.github.io/keridoc/visualisations/index.md)
+- [Markdown page example](https://weboftrust.github.io/keridoc/markdown-page/index.md): You don't need React to write simple standalone pages.
+- [Menu](https://weboftrust.github.io/keridoc/howtos-menu/index.md): How-to pages.
+- [Feedback](https://weboftrust.github.io/keridoc/feedback/index.md): We appreciate your feedback.
+- [Document Information](https://weboftrust.github.io/keridoc/ToIP-IR/ToIPIssuerRequirements.docx.md)
+- [Source: modules-js-universal/toLowerCaseAndRemoveSpecialChars.js](https://weboftrust.github.io/keridoc/JSDoc/modules-js-universal_toLowerCaseAndRemoveSpecialChars.js.md)
+- [Source: modules-js-universal/positionInArray.mjs](https://weboftrust.github.io/keridoc/JSDoc/modules-js-universal_positionInArray.mjs.md)
+- [Source: modules-js-node/unzipFile.mjs](https://weboftrust.github.io/keridoc/JSDoc/modules-js-node_unzipFile.mjs.md)
+- [Source: modules-js-node/glossaryJsonToMarkdown.mjs](https://weboftrust.github.io/keridoc/JSDoc/modules-js-node_glossaryJsonToMarkdown.mjs.md)
+- [Source: modules-js-node/downloadFile.mjs](https://weboftrust.github.io/keridoc/JSDoc/modules-js-node_downloadFile.mjs.md)
+- [Source: modules-js-node/createSpecUpJsonFile.mjs](https://weboftrust.github.io/keridoc/JSDoc/modules-js-node_createSpecUpJsonFile.mjs.md)
+- [Source: modules-js-node/cleanJson.mjs](https://weboftrust.github.io/keridoc/JSDoc/modules-js-node_cleanJson.mjs.md)
+- [Module: unzipFile](https://weboftrust.github.io/keridoc/JSDoc/module-unzipFile.md)
+- [Module: toLowerCaseAndRemoveSpecialChars](https://weboftrust.github.io/keridoc/JSDoc/module-toLowerCaseAndRemoveSpecialChars.md)
+- [Module: positionInArray](https://weboftrust.github.io/keridoc/JSDoc/module-positionInArray.md)
+- [Module: downloadFile](https://weboftrust.github.io/keridoc/JSDoc/module-downloadFile.md)
+- [Module: cleanJsonFile](https://weboftrust.github.io/keridoc/JSDoc/module-cleanJsonFile.md)
+- [Source: maintenance/fix_INDEX_OVERVIEW_FILE.js](https://weboftrust.github.io/keridoc/JSDoc/maintenance_fix_INDEX_OVERVIEW_FILE.js.md)
+- [Source: maintenance/fixOmnigraffleSvgOutput.js](https://weboftrust.github.io/keridoc/JSDoc/maintenance_fixOmnigraffleSvgOutput.js.md)
+- [Source: maintenance/fixDashInWikiCopyFilenames.js](https://weboftrust.github.io/keridoc/JSDoc/maintenance_fixDashInWikiCopyFilenames.js.md)
+- [Source: maintenance/findBrokenLinks.js](https://weboftrust.github.io/keridoc/JSDoc/maintenance_findBrokenLinks.js.md)
+- [Source: maintenance/XMLsitemapEditor.js](https://weboftrust.github.io/keridoc/JSDoc/maintenance_XMLsitemapEditor.js.md)
+- [Home](https://weboftrust.github.io/keridoc/JSDoc/index.md)
+- [Global](https://weboftrust.github.io/keridoc/JSDoc/global.md)
+- [Source: clientModules/writeChanges.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_writeChanges.js.md)
+- [Source: clientModules/upvoteSearchResult.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_upvoteSearchResult.js.md)
+- [Source: clientModules/typesenseInstantSearchInit.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_typesenseInstantSearchInit.js.md)
+- [Source: clientModules/typesenseInstantSearch.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_typesenseInstantSearch.js.md)
+- [Source: clientModules/typesenseHandleSearchModal.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_typesenseHandleSearchModal.js.md)
+- [Source: clientModules/showLevels.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_showLevels.js.md)
+- [Source: clientModules/showGPTsummary.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_showGPTsummary.js.md)
+- [Source: clientModules/showDefinitionsPopUpOnClick.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_showDefinitionsPopUpOnClick.js.md)
+- [Source: clientModules/scrollHorizontallyToKeyWordInSearchResults.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_scrollHorizontallyToKeyWordInSearchResults.js.md)
+- [Source: clientModules/insertVideo.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_insertVideo.js.md)
+- [Source: clientModules/insertSubtitles.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_insertSubtitles.js.md)
+- [Source: clientModules/imageFullSize.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_imageFullSize.js.md)
+- [Source: clientModules/horizontalScrollHint.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_horizontalScrollHint.js.md)
+- [Source: clientModules/findMentalModelMatches.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_findMentalModelMatches.js.md)
+- [Source: clientModules/fetchFormsColumnFromWotTerms.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_fetchFormsColumnFromWotTerms.js.md)
+- [Source: clientModules/fetchCommitHash.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_fetchCommitHash.js.md)
+- [Source: clientModules/elementGoFullScreen.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_elementGoFullScreen.js.md)
+- [Source: clientModules/dynamicTables.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_dynamicTables.js.md)
+- [Source: clientModules/crossLinks.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_crossLinks.js.md)
+- [Source: clientModules/createLinkToWikiPage.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_createLinkToWikiPage.js.md)
+- [Source: clientModules/addUiToSidebar.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_addUiToSidebar.js.md)
+- [Source: clientModules/addDataTypes.js](https://weboftrust.github.io/keridoc/JSDoc/clientModules_addDataTypes.js.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/vlei.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/signify.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/signify-dev.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/random.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/licencing.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/keripy.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/keriml.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/keri-swift.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/keri-rs.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/keri-dev.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/keri-cesr-licensing.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/introductions.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/index.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/iiw-nov-2022.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/governance.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/general.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/edu.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/did-keri.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/did-keri-dev.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/cesr.md)
+- [Slack Archive](https://weboftrust.github.io/keridoc/slack/html/cesr-dev.md)
+- [1     
+KERI Specifications](https://weboftrust.github.io/keridoc/html/GLEIF/2022-12-06_id_l-id_b-Ecosystem-Governance-Framework-Technical-Requirements-Part1-KERI-Infrastructure-Prep-1.0-Publication_v0.6_work.md)
+- [1     
+Related Specifications](https://weboftrust.github.io/keridoc/html/GLEIF/2022-12-01_verifiable-LEI-(vLEI)-Ecosystem-Governance-Framework-Technical-Requirements-Part 3-vLEI-Credential-Schema-Registry-Prep-1.0-Publication_v0.1_work.md)
+- [1      
+Introduction](https://weboftrust.github.io/keridoc/html/GLEIF/2022-11-30_Legal-Entity-QVI-AUTH-vLEI-Credential-GF-Prep-1.0-Publication_v0.6_work.md)
+- [Tags](https://weboftrust.github.io/keridoc/docs/tags/index.md)
+- [KERI Suite Glossary in ToIP style](https://weboftrust.github.io/keridoc/docs/glossary-toip-style/index.md)
+- [Dictionary SSI](https://weboftrust.github.io/keridoc/docs/dictionary/index.md)
+- [Various visualisations from Slack discussions](https://weboftrust.github.io/keridoc/docs/visualisations/various-visualisations-from-slack/index.md): 1
+- [Animated visualisation of repo connections](https://weboftrust.github.io/keridoc/docs/visualisations/repo-connections/index.md): See visualisation
+- [KERIA Service Architecture](https://weboftrust.github.io/keridoc/docs/visualisations/keria-service-architecture/index.md): ;
+- [KERI & ACDC Architecture](https://weboftrust.github.io/keridoc/docs/visualisations/keri-and-acdc-architecture/index.md): Flow charts created by Kent Bull.
+- [Backed and Backerless Issuance and Revocation](https://weboftrust.github.io/keridoc/docs/visualisations/backed-and-backerless-issuance-and-revocation/index.md): Flow charts created by Jason Colburne.
+- [Let's KERI on together](https://weboftrust.github.io/keridoc/docs/video/lets-keri-on-together/index.md): The video
+- [2024-03-24 KERI dev call](https://weboftrust.github.io/keridoc/docs/video/2024-03-24-KERI-dev-call/index.md): Why Zoom to KERISSE?
+- [One doc tagged with "KERI"](https://weboftrust.github.io/keridoc/docs/tags/keri/index.md)
+- [One doc tagged with "ACDC"](https://weboftrust.github.io/keridoc/docs/tags/acdc/index.md)
+- [keri.one-labeled](https://weboftrust.github.io/keridoc/docs/resources/keri.one-labeled/index.md): Primary Resources
+- [Delving into the WOT Knowledge Repository](https://weboftrust.github.io/keridoc/docs/resources/intro/index.md): Welcome to our comprehensive knowledge base – a dynamic compendium of whitepapers, slide presenta...
+- [All images found](https://weboftrust.github.io/keridoc/docs/resources/all-images/index.md): Total unique images found: 152
+- [overview-and-context](https://weboftrust.github.io/keridoc/docs/overview/overview-and-context/index.md): Overview and context
+- [Indexed in KERISSE](https://weboftrust.github.io/keridoc/docs/overview/indexed-in-KERISSE/index.md): Indexed at 02 April 2024 1740
+- [KERIDoc](https://weboftrust.github.io/keridoc/docs/intro/intro/index.md): We aim to document everything related to KERI, ACDC and CESR and alike. To let autonomic identifi...
+- [Intro](https://weboftrust.github.io/keridoc/docs/how-we-did/intro/index.md): This is a source directory that explains how this site came to be and how it can be maintained.
+- [External W3C DID Glossary](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-w3cdid/index.md)
+- [External ToIP did:webs Glossary](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-toipdidweb/index.md): w
+- [External ToIP Glossary](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-toip/index.md)
+- [External Nist Glossary](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-nist/index.md)
+- [External eSSIF-Lab Glossary](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-essiflab/index.md)
+- [External Digital Govt NZ Glossary](https://weboftrust.github.io/keridoc/docs/glossaries-external/glossary-digital.govt.nz/index.md)
+- [vLei issues](https://weboftrust.github.io/keridoc/docs/github-latest-activity/vLei/index.md): Real-time info.
+- [Signify-ts issues](https://weboftrust.github.io/keridoc/docs/github-latest-activity/signify-ts/index.md): Real-time info.
+- [KERIPY issues](https://weboftrust.github.io/keridoc/docs/github-latest-activity/keripy/index.md): Real-time info.
+- [KERIA issues](https://weboftrust.github.io/keridoc/docs/github-latest-activity/keria/index.md): Real-time info.
+- [KERI issues](https://weboftrust.github.io/keridoc/docs/github-latest-activity/keri/index.md): Real-time info.
+- [Cesride issues](https://weboftrust.github.io/keridoc/docs/github-latest-activity/cesride/index.md): Real-time info.
+- [Tutorials](https://weboftrust.github.io/keridoc/docs/education/tutorials/index.md): Search through tutorials
+- [Q&A about KERI's Security model and Guarantees](https://weboftrust.github.io/keridoc/docs/education/q-and-a-security/index.md): This document is part two of Q-and-A. Both files shares a common Glossary, KERI specific and more...
+- [Q&A about KERI](https://weboftrust.github.io/keridoc/docs/education/q-and-a/index.md): This document is part one. Part two is Q-and-A Security. Both files shares a common Glossary that...
+- [KERI MOOC](https://weboftrust.github.io/keridoc/docs/education/keri-mooc/index.md): Goal is to facilitate self-education culminating in KERI knowlegde. Level: starters, novices, beg...
+- [WOT Education](https://weboftrust.github.io/keridoc/docs/education/intro/index.md): This is a source directory that contains Q&As and other educational resources
+- [Roadmap to know what's coming](https://weboftrust.github.io/keridoc/docs/concepts/roadmap/index.md): People want to know when new code will be ready, who will produce it, where it'll be and how they...
+- [Mindmap](https://weboftrust.github.io/keridoc/docs/concepts/mindmap/index.md): hackmd-github-sync-badge
+- [Insights into the KERI Development Toolbox](https://weboftrust.github.io/keridoc/docs/concepts/keri-dev-env/index.md): Discover the whys and hows of the development tools that power the KERI system.
+- [WOT Concepts](https://weboftrust.github.io/keridoc/docs/concepts/intro/index.md): All the historical and actual concepts behind KERI and its off-springs
+- [Concepts](https://weboftrust.github.io/keridoc/docs/concepts/concepts/index.md): hackmd-github-sync-badge
+- [Visualisations](https://weboftrust.github.io/keridoc/docs/category/visualisations/index.md): Visualisations.
+- [Video](https://weboftrust.github.io/keridoc/docs/category/video/index.md): Video's.
+- [Various external glossaries](https://weboftrust.github.io/keridoc/docs/category/various-external-glossaries/index.md): Here you find various external glossaries.
+- [Resources](https://weboftrust.github.io/keridoc/docs/category/resources/index.md): Resources.
+- [Overview](https://weboftrust.github.io/keridoc/docs/category/overview/index.md): Overview.
+- [Intro](https://weboftrust.github.io/keridoc/docs/category/intro/index.md): Intro.
+- [How we did](https://weboftrust.github.io/keridoc/docs/category/how-we-did/index.md): Overview of how this website is made.
+- [Education](https://weboftrust.github.io/keridoc/docs/category/education/index.md): Educational resources.
+- [Concepts](https://weboftrust.github.io/keridoc/docs/category/concepts/index.md): Concepts.
+- [Annotated Copies](https://weboftrust.github.io/keridoc/docs/category/annotated-copies/index.md): Literal copies of content elsewhere on the web.
+- [WebOfTrust-keria-main-docs-protocol](https://weboftrust.github.io/keridoc/docs/annotated-copies/WebOfTrust-keria-main-docs-protocol/index.md): signify-keria-request-authentication-protocol--skrap-, level 1
+- [WebOfTrust-ietf-ipex-main-draft-ssmith-ipex](https://weboftrust.github.io/keridoc/docs/annotated-copies/WebOfTrust-ietf-ipex-main-draft-ssmith-ipex/index.md): 248943216478, level 1
+- [WebOfTrust-ietf-cesr-proof-main-draft-pfeairheller-cesr-proof](https://weboftrust.github.io/keridoc/docs/annotated-copies/WebOfTrust-ietf-cesr-proof-main-draft-pfeairheller-cesr-proof/index.md): 4493255410370, level 1
+- [WebOfTrust-ietf-acdc-main-draft-ssmith-acdc](https://weboftrust.github.io/keridoc/docs/annotated-copies/WebOfTrust-ietf-acdc-main-draft-ssmith-acdc/index.md): Temporarily removed content, because the site won't generate.
+- [kli-demo-2022](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/kli-demo-2022/index.md): -->
+- [draft-ssmith-said](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-said/index.md): title: "Self-Addressing IDentifier (SAID)"
+- [draft-ssmith-oobi](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-oobi/index.md): title: "Out-Of-Band-Introduction (OOBI) Protocol"
+- [draft-ssmith-keri](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-keri/index.md): title: "Key Event Receipt Infrastructure (KERI)"
+- [draft-ssmith-ipex](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-ipex/index.md): title: "Issuance and Presentation Exchange Protocol"
+- [draft-ssmith-cesr](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-cesr/index.md): title: "Composable Event Streaming Representation (CESR)"
+- [draft-ssmith-acdc](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-ssmith-acdc/index.md): title: "Authentic Chained Data Containers (ACDC)"
+- [draft-pfeairheller-ptel](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-pfeairheller-ptel/index.md): title: "Public Transaction Event Logs (PTEL)"
+- [draft-pfeairheller-did-keri](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-pfeairheller-did-keri/index.md): titlekeri DID Method"
+- [draft-pfeairheller-cesr-proof](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/draft-pfeairheller-cesr-proof/index.md): title: "CESR Proof Signatures"
+- [UNIVERSAL IDENTIFIER THEORY](https://weboftrust.github.io/keridoc/docs/resources/mdfiles/IdentifierTheory-ssmith-uidt/index.md): Samuel M. Smith Ph.D.\
+- [Typesense search install and configuration](https://weboftrust.github.io/keridoc/docs/how-we-did/kerisse/typesense-search-install-config/index.md): What is this: the necessary Typesense search engine commands and configs to serve the KERISSE sit...
+- [Overrides](https://weboftrust.github.io/keridoc/docs/how-we-did/kerisse/overrides/index.md): See//github.com/WebOfTrustkeridoc/blob/main/search-index-typesense/overrides.sh#L6
+- [IP rights of scraped sources](https://weboftrust.github.io/keridoc/docs/how-we-did/kerisse/ip-rights-scraping/index.md): What is this: accountability for having asked permission, where needed, to use the sources on the...
+- [Create a search index](https://weboftrust.github.io/keridoc/docs/how-we-did/kerisse/create-search-index/index.md): Instructions plus background.
+- [Kerific Discord bot](https://weboftrust.github.io/keridoc/docs/how-we-did/kerific/kerific-discord-bot/index.md): See the Kerific Discord Bot README.MD
+- [Kerific Bookmarklet and Chrome Extension](https://weboftrust.github.io/keridoc/docs/how-we-did/kerific/kerific-browser-extension/index.md): Your browser does not support video tags.
+- [The Terms WOT manage structure explained](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/why-terms-wot-manage-structure/index.md): What is this: A description of architecture and follow-up technical design
+- [Github Actions](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/organization-of-Github-Action-scripts/index.md): For who
+- [JavaScript documentation](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/javascript-jsdoc/index.md): Client Side and NodeJS JavaScript documention using JSDoc (opens in new tab)
+- [File system](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/file-system/index.md): For who: maintainers and developers
+- [Docusaurus process](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/docusaurus-process/index.md)
+- [Create an online table to link terms to resources](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/create-terms-link-table/index.md): What is this: This is how-we-did the processing of a video into an educational resource.
+- [Create Omnigraffle infographic and convert to SVG](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/create-omnigraffle-infographic-and-convert-to-svg/index.md): Why this doc: to show how-we-did create SVG files to serve as infographics on the site
+- [Check and accept PR production KERISSE site locally](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/check-and-accept-pr-production-edusite-locally/index.md): Why this how-we-did: To test pull request offered before accepting them in github
+- [Cheat sheet: writing a page inside /docs](https://weboftrust.github.io/keridoc/docs/how-we-did/keridoc/cheat-sheet-writing-page/index.md): What is this: A few rules about headings, internal linking, images and more that we kept in mind....
+- [Load weboftrust glossary in weboftrust github page](https://weboftrust.github.io/keridoc/docs/how-we-did/glossary/load-glossary-weboftrust-in-docusaurus/index.md): Why how-we-did this: We'ld like to have a straightforward editting tool that authenticates users ...
+- [Fill out terms in the WebofTrust wiki](https://weboftrust.github.io/keridoc/docs/how-we-did/glossary/fill-out-terms-toip-wiki/index.md): What is this
+- [Embed a Github-hosted image in a Github wiki page](https://weboftrust.github.io/keridoc/docs/how-we-did/glossary/embed-github-hosted-image-in-github-wiki-page/index.md): For who: content developers and those who'd like to repair broken images
+- [Edit glossary metadata](https://weboftrust.github.io/keridoc/docs/how-we-did/glossary/edit-metadata/index.md): The glossary metadata are currently hosted in Google Sheets.
+- [Redirects](https://weboftrust.github.io/keridoc/docs/how-we-did/general/redirects/index.md): These are the redirects that can be used:
+- [Install this repo](https://weboftrust.github.io/keridoc/docs/how-we-did/general/install-project-kerisse/index.md): Result: | @kordwarshuis TBW |
+- [Verify a credential](https://weboftrust.github.io/keridoc/docs/concepts/how-to/verify-a-credential/index.md): Lorem ipsum
+- [Set up a basic KERI network](https://weboftrust.github.io/keridoc/docs/concepts/how-to/set-up-basic-keri-network/index.md): Lorem ipsum
+- [Present a credential](https://weboftrust.github.io/keridoc/docs/concepts/how-to/present-a-credential/index.md): Lorem ipsum
+- [Make a schema](https://weboftrust.github.io/keridoc/docs/concepts/how-to/make-a-schema/index.md): Lorem ipsum
+- [Issue a credential](https://weboftrust.github.io/keridoc/docs/concepts/how-to/issue-a-credential/index.md): Lorem ipsum
+- [Intro](https://weboftrust.github.io/keridoc/docs/concepts/how-to/intro/index.md): Lorem ipsum
+- [Current open issues](https://weboftrust.github.io/keridoc/docs/concepts/how-to/current-open-issues/index.md): Lorem ipsum
+- [Create a basic ACDC graph](https://weboftrust.github.io/keridoc/docs/concepts/how-to/create-a-basic-acdc-graph/index.md): Lorem ipsum
+- [Contributors' Guide](https://weboftrust.github.io/keridoc/docs/concepts/how-to/contribute-to-weboftrust-github/index.md): Introduction

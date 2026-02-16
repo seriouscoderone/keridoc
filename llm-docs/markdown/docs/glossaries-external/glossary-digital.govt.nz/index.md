@@ -1,0 +1,227 @@
+# External Digital Govt NZ Glossary
+
+\[ [A](#account) | [B](#binding) | [C](#challenge) | [D](#delegate~ed) | [E](#enrol~ment) | [F](#facilitate~ion) | [G](#undefined) | [H](#undefined) | [I](#identification) | [J](#undefined) | [K](#undefined) | [L](#levelofrisk) | [M](#mechanism) | [N](#undefined) | [O](#onetimepasswordOTP) | [P](#party) | [Q](#undefined) | [R](#relyingparty\(RP\)) | [S](#selfsovereign) | [T](#transaction) | [U](#undefined) | [V](#undefined) | [W](#undefined) | [X](#undefined) | [Y](#undefined) | [Z](#undefined) \]
+
+account
+
+an instance of entity information in a contextAdditional note:Note 1: A common term for the set of entity information relating to 1 entity to which an authenticator can be registered and from which credential subject information can be taken to establish a Credential.
+
+accountable
+
+responsible for some action; answerable\[Source: expanded Dictionary meaning of accountable\]Additional note:Note 1: For roles such as Credential Provider and Relying Party, it is the primary publicly accessible party.
+
+affected party
+
+a party that could be influenced; acted upon\[Source: expanded Dictionary meaning of affected\]Additional note:Note 1: For identification risk, the affected parties have been identified as:Entitled individual for example, an entitled individual applies for a service and is deemed ineligible because their identity has been used previously by someone else to claim the same service.Service provider for example, an organisations reputation suffers because of publicity that the agency has been defrauded by large numbers of individuals claiming false identities.Wider community for example, identification documents are mistakenly issued to people with false identities and are then used to commit fraud against other organisations.
+
+agent
+
+a person, firm, etc. empowered to act for another\[Source: Dictionary\]
+
+anonymous
+
+not easily distinguished from others or from one another because of a lack of individual features or character\[Source: Dictionary\]
+
+assurance
+
+a statement, assertion, etc. intended to inspire confidence or give encouragement\[Source: Dictionary\]
+
+attribute
+
+(noun) a characteristic or quality of a person or thing\[Source: Dictionary\]
+
+authentication
+
+process for establishing an authenticator is genuine or as represented\[Source: expanded Dictionary meaning of authenticate\]
+
+authenticator
+
+things known and/or possessed and controlled by an entity that are used to be recognised when they return to an organisation\[Source: Based on NIST SP 800-63-3 Digital Identity Guidelines\]
+
+authenticator holder
+
+the entity to which an authenticator was initially bound; the rightful holder\[Source: New definition\]
+
+authoritative
+
+possessing or supported by authority; official\[Source: Dictionary\]Additional note:Note 1: Indigenous peoples, society and industry communities can nominate a party as authoritative. Its possible that such a party is subject to legal controls.
+
+binding
+
+(noun) the action of a person or thing that binds\[Source: Dictionary\]
+
+challenge
+
+(verb) to order (a person) to halt and be identified or to give a password\[Source: Dictionary\]Additional note:Note 1: A challenger issues a challenge and a responder replies.
+
+comply ~ance
+
+to act in accordance with rules, wishes, etc; be obedient (to)\[Source: Dictionary\]
+
+consequence
+
+outcome of an event affecting objectives\[Source: ISO 31073:2022\]Additional notes:Note 1: A consequence can have positive or negative, direct or indirect, effects on objectives.Note 2: Consequences can be expressed qualitatively or quantitatively.Note 3: Any consequences can escalate through cascading and cumulative effects.
+
+context
+
+environment with defined boundary conditions in which entities exist and interact\[Source: ITU-T X.1252\]
+
+contiguous
+
+immediately preceding or following in time\[Source: Dictionary modified by adding immediately\]Additional note:Note 1: When applied to authentication, multiple factors are tested in such adjacent steps, that they are considered part of a single process.
+
+(risk) control
+
+(noun) measure that maintains and / or modifies risk\[Source: ISO 31073:2022 modified to add note 3\]Additional notes:Note 1: Risk controls include, but are not limited to, any process, policy, device, practice, or other conditions and / or actions which maintain and / or modify risk.Note 2: Risk controls do not always exert the intended or assumed modifying effect.Note 3: When using the Assessing identification risk guidance to calculate levels of identification process, these processes are not included as risk controls.
+
+control
+
+(verb) to command, direct, or rule\[Source: Dictionary\]Additional note:Note 1: Control is also used outside the context of risk mitigation. For example, to indicate the ability for an authenticator holder to retain use of their authenticator.
+
+correlate~ion
+
+to place or be placed in a mutual, complementary, or reciprocal relationship\[Source: Dictionary\]
+
+corroborate~ing
+
+to confirm or support (facts, opinions, etc), esp by providing fresh evidence\[Source: Dictionary\]
+
+credential
+
+an artefact created as the result of a series of processes that bind an entity with information and an authenticator, on which other parties relyAdditional note:Note 1: At a minimum a credential includes an authenticator and information to enable presentation.
+
+credential provider
+
+the party accountable for the establishment and presentation facilitation of a credentialAdditional note:Note 1: A Credential Provider may employ other parties in the carrying out of their function.
+
+delegate~ed
+
+(verb) to give or commit (duties, powers, etc) to another as agent or representative; depute\[Source: Dictionary\]
+
+delegate
+
+(noun) a person chosen or elected to act for or represent another or others\[Source: Dictionary\]Additional note:Note 1: Modified to remove reference to conference or meeting.
+
+derived value
+
+value obtained by reasoning; deduction or inference\[Source: expanded Dictionary meaning of derive\]
+
+enrol ~ment
+
+to become or cause to become a member; enlist; register\[Source: Dictionary\]
+
+entity
+
+something that has real or distinct existence from other things\[Source: Dictionary\]
+
+evidence
+
+to give proof of or evidence for\[Source: Dictionary\]
+
+facilitate~ion
+
+to make easier; assist the progress of\[Source: Dictionary\]
+
+facilitation providerFP
+
+the party accountable for the establishment and functioning of a facilitation mechanism\[Source: New definition\]Additional note:Note 1: A facilitation mechanism facilitates the presentation of 1 or more Credentials to a Relying Party.
+
+federate~d~ion
+
+united by common agreement under an authority\[Source: Dictionary modified to remove central government\]
+
+forgery
+
+the act of reproducing something for a deceitful or fraudulent purpose\[Source: Dictionary\]
+
+identification
+
+the act of identifying or the state of being identified\[Source: Dictionary\]
+
+identifier
+
+information that is enough to uniquely represent an entity in a given context\[Source: New definition\]
+
+identity theft
+
+the theft or assumption of a pre-existing identity (or significant part thereof) with or without consent, and, whether, in the case of an individual, the person is living or deceased\[Source: Australian Centre for Policing Research\]
+
+level of risk
+
+magnitude of a risk or combination of risks, expressed in terms of the combination of consequences and their likelihood\[Source: ISO 31073:2022\]
+
+likelihood
+
+chance of something happening\[Source: ISO 31073:2022\]Additional notes:Note 1: In risk management terminology, the word likelihood is used to refer to the chance of something happening, whether defined, measured or determined objectively or subjectively, qualitatively or quantitatively, and described using general terms or mathematically (such as a probability or a frequency over a given time period).Note 2: The English term likelihood does not have a direct equivalent in some languages instead, the equivalent of the term probability is often used. However, in English, probability is often narrowly interpreted as a mathematical term. Therefore, in risk management terminology, likelihood is used with the intent that it should have the same broad interpretation as the term probability has in many languages other than English.
+
+mechanism
+
+a process or technique, esp. of execution\[Source: Dictionary\]
+
+one-time password OTP
+
+a password that is valid for only 1 login session or transaction\[Source: Wikipedia\]Additional notes:Note 1: Also known as one-time pin or dynamic password.Note 2: Generation can be time-based OTP (TOTP) or event-based OTP also known as hash-based message authentication codes (HMAC) (HOTP).
+
+orphan ~ed
+
+entity information that is not bound to an entity or authenticator
+
+party
+
+an entity who participates or is concerned in an action, proceeding, plan, etc.\[Source: Dictionary modified to include non-persons\]
+
+present ~ation
+
+(verb) to offer or hand over for action or settlement\[Source: Dictionary\]
+
+pseudonymous
+
+using a pseudonym\[Source: Dictionary\]Additional note:Note 1: A pseudonym being an identifier that may relate to an individual entity but does not allow the entity to be identifiable outside the context.
+
+relying party (RP)
+
+the accountable party who relies on presented credential(s) in order to make decisionsAdditional notesNote 1: A Relying Party may employ other parties in the carrying out of their function.
+
+replication
+
+the act of repeating, duplicating, copying, or reproducing\[Source: Dictionary\]
+
+risk
+
+effect of uncertainty on objectives\[Source: ISO 31073:2022\]Additional notes:Note 1: An effect is a deviation from the expected. It can be positive, negative or both, and can address, create or result in opportunities and threats.Note 2: Objectives can have different aspects and categories and can be applied at different levels.Note 3: Risk is usually expressed in terms of risk sources, potential events, their consequences and their likelihood.
+
+role
+
+proper or customary function\[Source: Dictionary\]
+
+self-sovereign
+
+(concept) an entity having sole ownership over the ability to control their accounts and information\[Source: Based on searchsecurity.techtarget.com\]
+
+service
+
+a system or method of providing people with the use of something, as electric power, water, transportation, mail delivery.\[Source: Dictionary\]Additional notes:Note 1: Today service has a broader application than utilities, such as finance, employment and compliance services.Note 2: A service may contain 1 or more transactions.
+
+session
+
+an unbroken interactive information interchange between 2 or more entities\[Source: Wikipedia (computer science) modified\]
+
+spoofing
+
+presenting a recorded image or other biometric data sample, or an artificially derived biometric characteristic, in order to impersonate an individual\[Source: ISO/IEC TR 24714-1:2008\]
+
+subject
+
+entity that is the focus of entity information
+
+synchronise ~ous
+
+to occur or recur or cause to occur or recur at the same time or in unison\[Source: Dictionary\]
+
+transaction
+
+one or more exchanges between an individual and an organisation in a process related to a specific outcomeAdditional notes:Note 1: A single transaction may constitute a step in a segmented process or result in the completion of an end to end process.Note 2: A service is usually made up of several transactions.
+
+identity
+
+one or more attributes that allow an entity record to be unique from all others in the contextAdditional noteNote 1: Due to the contextual nature of the attributes that make up an identity and its poor interaction with other words, use of the word identity as a descriptor should be avoided wherever possible.

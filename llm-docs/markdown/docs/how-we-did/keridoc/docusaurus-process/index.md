@@ -1,0 +1,3 @@
+# Docusaurus process
+
+Canvas 1Page readyRectanglePage ready to viewConnectionClient sideCross linksinsertVideoInsert SubtitlesDynamic Tablesmake overview table go full screenwrite changes to OverviewHorizontal Scroll HintShow inline definitions On ClickAdd knowledge level andtype category as html attribto Show GPT summaryBrowser (Client Modules)Run in parallelCLIENTSERVER-SIDEServer sideImport Google Sheet datainto .md file (Node.js)RectangleServerRun Docsaurus BuildDeploy as website to GitHub PagesCLIENT-SIDEEvery time a new versionof the websiteis pushed toGithub pagesEvery time a webpageis loaded intothe browser
