@@ -41,6 +41,7 @@ jobs:
           product-name: 'KERIDoc'
           tagline: 'KERI Suite Documentation'
           inject-sidebar: 'false'
+          sidebar-path: './sidebars-nonexistent.js'
 
       - name: Copy LLM docs to build output
         run: |
