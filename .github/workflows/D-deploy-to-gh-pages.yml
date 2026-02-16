@@ -63,11 +63,23 @@ jobs:
           inject-sidebar: 'false'
           sidebar-path: './sidebars-nonexistent.js'
 
-      - name: Copy LLM docs to build root
+      - name: Copy LLM docs to build root and repo
         run: |
           cp ${{ steps.llm-docs.outputs.llms-txt-path }} ./build/llms.txt
           cp ${{ steps.llm-docs.outputs.llms-full-txt-path }} ./build/llms-full.txt
           cp ${{ steps.llm-docs.outputs.markdown-zip-path }} ./build/markdown.zip
+          mkdir -p ./llm-docs
+          cp ${{ steps.llm-docs.outputs.llms-txt-path }} ./llm-docs/llms.txt
+          cp ${{ steps.llm-docs.outputs.llms-full-txt-path }} ./llm-docs/llms-full.txt
+          cp ${{ steps.llm-docs.outputs.markdown-zip-path }} ./llm-docs/markdown.zip
+
+      - name: Commit LLM docs to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add llm-docs/
+          git diff --staged --quiet && echo "No changes to commit" || git commit -m "Update LLM-optimized documentation [automated]"
+          git push
       ##############################
 
 
